@@ -1,2 +1,0 @@
-# AI_Genetic_Algorithm_Species_Consideration_and_MultiSelection_Policies_with-Kmeans
-AI Project
